@@ -1,1 +1,3 @@
-# dask_eda
+# Dask: Exploratory Data Analysis
+
+In development
