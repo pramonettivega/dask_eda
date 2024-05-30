@@ -6,4 +6,11 @@ Learning objectives
 - Identify the different Dask objects
 - Apply Dask Tuning techniques
 
-This material has been developed as part of the [FOUNT](https://fount.cs.uchicago.edu/) Project. 
+This material has been developed as part of the [FOUNT](https://fount.cs.uchicago.edu/) project. 
+
+To execute this material:
+
+Make sure to have Docker installed and running in your local system
+Clone the github repository
+Execute the docker-compose.yml file: docker-compose up -d
+Once the application is running, open your local browser and navigate to http://localhost:8888 to access the JupyterHub notebook.
